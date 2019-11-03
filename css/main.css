@@ -173,6 +173,7 @@ iframe{
 	height: 30vw;
 	margin: auto;
 	display: block;
+	margin-bottom: 30px;
 }
 
 .wrap-iframe{
@@ -425,6 +426,7 @@ footer div{
 		height: 40vw;
 		margin: auto;
 		display: block;
+		margin-bottom: 20px;
 	}
 
   .rawLogo{
