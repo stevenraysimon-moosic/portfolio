@@ -184,6 +184,14 @@ hr{
   border-width: 0.5px;
 }
 
+@-moz-document url-prefix() {
+	hr{
+	   border: none;
+	   height: 0.5px;
+           background-color: #555;
+	}
+}
+
 .row{
   display: flex;
   flex-direction: row;
