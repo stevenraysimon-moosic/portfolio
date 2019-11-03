@@ -187,8 +187,8 @@ hr{
 @-moz-document url-prefix() {
 	hr{
 	   border: none;
-	   height: 0.5px;
-           background-color: #555;
+	   height: 1px;
+           background-color: #ccc;
 	}
 }
 
