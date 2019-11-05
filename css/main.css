@@ -143,12 +143,13 @@ nav a:active{
 
 #main-cta{
 	color: #f50;
-  padding: 16px 26px;
-  transition: 0.4s;
+        padding: 16px 26px;
+        transition: 0.4s;
 	border-radius: 40px;
 	font-size: 0.8em;
 	background-color: #f8e9a1;
 	text-align: center;
+	font-weight: 600;
 }
 
 #main-cta:hover{
