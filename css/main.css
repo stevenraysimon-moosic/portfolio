@@ -67,7 +67,7 @@ a{
   position: relative;
   min-height: 480px;
   background-size: cover;
-  background-position: bottom center;
+  background-position: center;
   background-image: url('../images/nature.jpg');
 }
 
